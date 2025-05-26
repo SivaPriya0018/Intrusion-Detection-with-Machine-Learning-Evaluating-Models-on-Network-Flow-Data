@@ -1,4 +1,4 @@
-# Intrusion Detection with Machine Learning: Evaluating Models on Network Flow Data
+# Intrusion Detection with Machine Learning- Evaluating Models on Network Flow Data
 
 This project builds a supervised machine learning pipeline to classify network traffic as benign or malicious using a dataset of network flow statistics. It evaluates multiple models and compares their performance on standard classification metrics.
 
